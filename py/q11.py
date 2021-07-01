@@ -16,7 +16,7 @@ else:
     r = int(input('Enter the radius of circle : '))
     are = 3.14 * r*r
     peri = 6.28*r
-    print('The area of triangle is',are,'and its perimeter is',peri)
+    print('The area of circle is',are,'and its perimeter is',peri)
 
 
 
