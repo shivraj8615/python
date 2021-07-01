@@ -1,0 +1,17 @@
+#Write a program to demonstrate the use of numpy library for creating arrays in Python.
+import numpy as np
+myarr = np.array([3,4,5,6])
+print(myarr)
+mua = np.array([3,4,5,6],np.int32)
+print(mua)
+print(mua[0])
+mj=np.array([[1,2,3],[3,4,5]])
+print(mj)
+print(mj[1,2])
+zer = np.zeros((2,5))
+print(zer)
+print(sp = np.linspace(1,5,5))
+print(emp  = np.empty(4,6))
+print(arr = np.identity(45))
+print(arr = np.arrange(99))
+print(mj = mj.reshape(3,2))
