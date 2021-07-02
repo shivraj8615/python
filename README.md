@@ -1,5 +1,7 @@
 # python
+#please read it.
 Hey friends of SMVDU Mech this is for you all every question number with question in comment and code written there.
+# Question 1 to 37d is in py file and 37e to 58 is in py2 file.
 Here for some question you have to install related library module
 37b -numpy module - pip install numpy(run this command in terminal(mac,linux),cd(window) as this question i had practice in juypter notebook therefore there must be some difference so copy code line only and run it.)
 37c- pandas module - pip install pandas (run this command in terminal(mac,linux),cd(window) as this question i had practice in juypter notebook therefore there must be some difference so copy code line only and run it.)
